@@ -1,3 +1,3 @@
 # MNIST-SVM
 This project is a basic handwriting recognition project for learning SVM technique.
-Author - Harimohan Khatri
+Author - Hameer Khatri
